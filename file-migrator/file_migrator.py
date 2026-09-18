@@ -5,8 +5,8 @@ import sys
 from datetime import datetime
 
 # --- 設定項目 ---
-SRC_DIR = r"/Volumes/PNY_SSD/Picture_Backup/_duplicates"
-DST_DIR = r"/Volumes/PNY_SSD/Picture_Backup"
+SRC_DIR = r"..."
+DST_DIR = r"..."
 # True: シミュレーション（画面＆CSV出力のみ）
 # False:本番実行
 DRY_RUN = True
